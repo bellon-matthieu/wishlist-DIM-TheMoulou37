@@ -1,0 +1,10 @@
+// Destiny 2 WishList - DIM - TheMoulou37 - PvE
+
+
+title:PvE - TheMoulou37
+description:Une liste non-exhaustive des armes PvE
+
+
+// Lance-grenades
+// Passage du gouffre
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919,2489430594
